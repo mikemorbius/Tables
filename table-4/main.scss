@@ -1,0 +1,24 @@
+*{
+	box-sizing: border-box;
+	background-color: #25BCA7;
+	margin: 0;
+	padding: 0;
+	margin: 0 auto;
+	text-transform: uppercase;
+	color: #D0FDFC;
+}
+h3{
+	text-align: center;
+}
+table{
+	width: 1200px;
+	border: 1px solid #D0FDFC;
+	border-collapse: collapse;
+}
+thead{
+	background-color: #69D0B5;
+}
+td{
+	height: 40px;
+	border-bottom: .4px solid #D0FDFC;
+}

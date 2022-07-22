@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid rgb(145, 155, 159);
+}
+
+a {
+  text-decoration: none;
+}
+
+th {
+  background-color: rgb(68, 147, 171);
+}
+
+tr:nth-child(even) {
+  background-color: rgb(150, 207, 222);
+}/*# sourceMappingURL=main.css.map */
